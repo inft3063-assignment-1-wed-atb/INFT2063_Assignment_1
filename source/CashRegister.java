@@ -15,7 +15,7 @@ public class CashRegister {
 		boolean endProgram = false;
 		recieptDemo reciept = new recieptDemo();
 
-		//Delta_17
+		//Delta_17.
 		
 		Scanner input = new Scanner(System.in);
 
