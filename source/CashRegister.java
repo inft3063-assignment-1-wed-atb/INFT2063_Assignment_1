@@ -15,7 +15,7 @@ public class CashRegister {
 		boolean endProgram = false;
 		recieptDemo reciept = new recieptDemo();
 
-		//Delta_17. GPG is Evil.
+		//Delta_17. GPG is Evil. Is Really Evil.
 		
 		Scanner input = new Scanner(System.in);
 
