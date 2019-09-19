@@ -11,11 +11,12 @@ public class CashRegister {
 		String proceed;
 		String register;
 		String c ="0";
-		double balance;
+		double balance = 0;
 		boolean endProgram = false;
 		recieptDemo reciept = new recieptDemo();
 
 		//Delta_17. GPG is Evil.
+		//hate this shit
 		
 		Scanner input = new Scanner(System.in);
 
