@@ -15,6 +15,8 @@ public class CashRegister {
 		boolean endProgram = false;
 		recieptDemo reciept = new recieptDemo();
 
+		//Delta_17
+		
 		Scanner input = new Scanner(System.in);
 
 		while (!endProgram) {
@@ -23,6 +25,9 @@ public class CashRegister {
 			System.out.print("Please enter cash register's float:");
 			register = input.nextLine();
 			balance = Double.parseDouble(register);
+			} catch(Exception e) {
+				System.out.println("Invalid input, please enter a valid number");
+			}
 
 			System.out.println("Would you like to proceed with the transaction? (y/n)");
 			proceed = input.nextLine();
@@ -57,9 +62,7 @@ public class CashRegister {
 			else {
 				System.out.println("Invalid input. Please try again");
 			}
-			} catch(Exception e) {
-				System.out.println("Invalid input, please enter a valid number");
-			}
+			
 		}
 		
 		endProgram = false;
