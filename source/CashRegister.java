@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class CashRegister {
 	public static void main(String[] args) {
 		String dollar_symbol = "$";
-
+//COmment
 		String itemName;
 		String itemCost = "Nil";
 		String cash;
