@@ -21,6 +21,7 @@ public class CashRegister {
 		//Delta_17. GPG is Evil
 		//hate this shit
 		//Same here
+//hell hello
 >>>>>>> branch 'master' of https://github.com/inft3063-assignment-1-wed-atb/INFT2063_Assignment_1.git
 		
 		Scanner input = new Scanner(System.in);
