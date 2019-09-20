@@ -18,9 +18,10 @@ public class CashRegister {
 <<<<<<< HEAD
 		//Delta_17. GPG is Evil. Is Really Evil.5
 =======
-		//Delta_17. GPG is Evilfc
+		//Delta_17. GPG is Evilf 
 		//hate this shit
 		//Same here
+		// Where is the git god.
 //hell hello
 >>>>>>> branch 'master' of https://github.com/inft3063-assignment-1-wed-atb/INFT2063_Assignment_1.git
 		
