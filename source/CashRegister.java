@@ -21,7 +21,7 @@ public class CashRegister {
 		//Delta_17. GPG is Evilf 
 		//hate this shit
 		//Same here
-		// Where is the git god.
+		// Where is the git god...
 //hell hello
 >>>>>>> branch 'master' of https://github.com/inft3063-assignment-1-wed-atb/INFT2063_Assignment_1.git
 		
