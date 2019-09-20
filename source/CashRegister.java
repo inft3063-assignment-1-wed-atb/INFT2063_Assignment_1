@@ -17,7 +17,7 @@ public class CashRegister {
 
 <<<<<<< HEAD
 		//Delta_17. GPG is Evil. Is Really Evil.5
-		//New key test.
+		//New key test..
 =======
 		//Delta_17. GPG is Evilf 
 		//hate this shit
